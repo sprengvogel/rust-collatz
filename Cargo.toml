@@ -1,0 +1,7 @@
+[package]
+name = "collatz"
+version = "0.1.0"
+authors = ["Niklas"]
+
+[dependencies]
+num = "0.2"
